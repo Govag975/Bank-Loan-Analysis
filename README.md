@@ -119,18 +119,33 @@ bank-loan-report/
 
 ---
 
-## 📷 Screenshots
+ 📷 Screenshots
 
-Add exported PNGs of each page (Summary, Overview, Details) to `screenshots/` and reference them here, e.g.:
+Add exported PNGs of each page (Summary, Overview, Details)  and reference them here, e.g.:
 
-```markdown
-![Summary Page](screenshots/summary.png)
-![Overview Page](screenshots/overview.png)
-![Details Page](screenshots/details.png)
-```
+Link 1 (Power BI Summary Dashboard ):
+
+![Alt Text](https://github.com/Govag975/Bank-Loan-Analysis/blob/main/Screenshot%202026-08-01%20110142.png)
+
+Link 2 ( Power BI Overview Dashboard) :
+
+![Alt Text](https://github.com/Govag975/Bank-Loan-Analysis/blob/main/Screenshot%202026-08-01%20110130.png)
+
+Link 3 (Power BI Details Dashboard ):
+
+![Alt Text](https://github.com/Govag975/Bank-Loan-Analysis/blob/main/Screenshot%202026-08-01%20110117.png)
+
+Link 4 (MS Excel Summary Dashboard ):
+
+![Alt Text](https://github.com/Govag975/Bank-Loan-Analysis/blob/main/Screenshot%202026-08-01%20110341.png)
+
+Link 5 (MS Excel Overview Dashboard ):
+
+![Alt Text](https://github.com/Govag975/Bank-Loan-Analysis/blob/main/Screenshot%202026-08-01%20110355.png)
 
 ---
 
 ## 📄 License
 
-Specify your license here (e.g., MIT) if you intend this project to be reused by others.
+license here
+![Drivelink](https://drive.google.com/drive/folders/1q135b1Ahlm1I03s3sYHgqNoPZbkqTSVK) if you intend this project to be reused by others.
