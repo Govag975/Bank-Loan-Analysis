@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis
+# Bank-Loan-Analysis-Dashboard
 Bank Loan Analysis Dashboard
 # 🏦 Bank Loan Report Dashboard
 
